@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget
-  id="test application"
+  id="testapplication"
   version="1.0.4"
   android-versionCode="$BUILD_NUMBER"
   ios-CFBundleVersion="$BUILD_NUMBER">
